@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-community
+composio
+google-search-results
+openrouter
+python-dotenv
+pytest
+requests
+pydantic
+typing-extensions
