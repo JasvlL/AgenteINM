@@ -103,6 +103,6 @@ Por favor, asegúrate de actualizar las pruebas según corresponda y de seguir l
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contacto
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter) - email@example.com
+Jeferson Zelaya - jeferson.zelayae@gmail.com
 
 Link del Proyecto: [https://github.com/tu-usuario/agentes-inmobiliaria](https://github.com/tu-usuario/agentes-inmobiliaria)
